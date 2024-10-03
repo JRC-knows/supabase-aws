@@ -48,8 +48,8 @@
     "url": "git+https://github.com/supabase/supabase.git"
   },
   "engines": {
-    "npm": "^10.0.0",
-    "node": "^20.0.0"
+    "npm": "^9.0.0",
+    "node": "^18.0.0"
   },
   "keywords": ["postgres", "firebase", "storage", "functions", "database", "auth"],
   "packageManager": "npm@10.7.0"
